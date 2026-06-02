@@ -3,7 +3,7 @@ import { onMounted, reactive } from 'vue';
 import { RouterLink } from 'vue-router';
 import axios from 'axios';
 // Importamos el componente de la fila
-import Post from '@/components/post.vue';
+import Post from '@/components/Post.vue';
 
 const state = reactive({
   posts: []
