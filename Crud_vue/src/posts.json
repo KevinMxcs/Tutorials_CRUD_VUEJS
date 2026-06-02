@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1a2b3c4d5e",
+      "title": "Explorando las maravillas del océano",
+      "description": "Profundiza en los misterios del océano y descubre la increíble vida marina que la habita. Desde los vibrantes arrecifes de coral hasta el oscuro abismo, el océano es un mundo de maravilla y belleza esperando ser explorado."
+    },
+    {
+      "id": "2f3g4h5i6j",
+      "title": "El arte de hornear pan",
+      "description": "Aprende los secretos a hornear el pan perfecto en casa. Esta publicación cubre todo, desde elegir la harina adecuada hasta dominar el arte de amasar y probar."
+    },
+    {
+      "id": "3k4l5m6n7o",
+      "title": "Viajando por el mundo con un presupuesto",
+      "description": "Descubre consejos y trucos para ver el mundo sin romper el banco. Desde encontrar vuelos baratos hasta alojamientos económicos, esta guía lo tiene cubierto."
+    }
+  ]
+}
